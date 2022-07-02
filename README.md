@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Dhyan T D</h1>
-<h3 align="center">A Passionate Programmer 👨‍💻, A Problem Solver 🛠</h3>
+<h2 align="center">A Passionate Programmer 👨‍💻, A Problem Solver 🛠</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyantd&label=Profile%20views&color=0e75b6&style=flat" alt="dhyantd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyantd" alt="dhyantd" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/dhyan_td" target="blank"><img src="https://img.shields.io/twitter/follow/dhyan_td?logo=twitter&style=for-the-badge" alt="dhyan_td" /></a> </p>
 
@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhyantd&show_icons=true&locale=en" alt="dhyantd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhyantd&" alt="dhyantd" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyantd" alt="dhyantd" /></a> </p>
