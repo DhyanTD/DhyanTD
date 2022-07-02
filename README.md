@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyantd&label=Profile%20views&color=0e75b6&style=flat" alt="dhyantd" /> </p>
 
 
-
-<h2> About Me </h2>
 <hr>
+<h2> About Me </h2>
+
 
 - 🔭 I’m currently working on a website for KVG COLLEGE OF ENGINEERING [kvgengg.com](http://www.kvgengg.com)
 
