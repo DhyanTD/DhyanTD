@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dhyan T D</h1>
-<h2 align="center">A Passionate Programmer 👨‍💻, A Problem Solver 🛠</h2>
+<h2 align="center">A Passionate Programmer, A Problem Solver </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyantd&label=Profile%20views&color=0e75b6&style=flat" alt="dhyantd" /> </p>
 
