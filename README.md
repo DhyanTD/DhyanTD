@@ -5,15 +5,16 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/dhyan_td" target="blank"><img src="https://img.shields.io/twitter/follow/dhyan_td?logo=twitter&style=for-the-badge" alt="dhyan_td" /></a> </p>
-
-- 🌱 I’m currently learning **Laravel**
+<h2> About Me </h2>
+<hr>
 
 - 🔭 I’m currently working on a website for KVG COLLEGE OF ENGINEERING [kvgengg.com](http://www.kvgengg.com)
 
 - 👨‍💻 All of my projects are available at [https://dhyantd.github.io](https://dhyantd.github.io)
 
 - 💬 Ask me about **Python,Flask,Web/App development, C++**
+
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 reach me at: **dhyantd@gmail.com**
 
