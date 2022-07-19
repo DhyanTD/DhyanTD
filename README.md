@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dhyan T D</h1>
-<h3 align="center">A Passionate Programmer and a Problem Solver 👨‍💻 </h3>
+<h3 align="center">A Passionate Programmer,a Problem Solver and a open-source advocate👨‍💻 </h3>
 <hr>
 <h2> About Me </h2>
 - 🔭 I’m currently working on a website for KVG COLLEGE OF ENGINEERING [kvgengg.com](http://www.kvgengg.com)
