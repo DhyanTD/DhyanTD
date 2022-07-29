@@ -1,3 +1,4 @@
+<img src="12.png" alt="">
 <h1 align="center">Hello 👋, I'm Dhyan T D</h1>
 <h3 align="center">A Passionate Programmer,a Problem Solver and a open-source advocate👨‍💻 </h3>
 <hr>
