@@ -1,9 +1,10 @@
 
 <img src="assets/images/1.png" alt="" border-radius="2px">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dhyantd&label=Profile%20views&color=0e75b6&style=flat" alt="dhyantd" /> </p>
+
 <h1 align="center">Hello 👋, I'm Dhyan T D</h1>
 <h3 align="center">A Passionate Programmer,a Problem Solver and a open-source advocate👨‍💻 </h3>
 <hr>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dhyantd&label=Profile%20views&color=0e75b6&style=flat" alt="dhyantd" /> </p>
 <h2> About Me </h2>
 - 🔭 I’m currently working on a website for KVG COLLEGE OF ENGINEERING [kvgengg.com](http://www.kvgengg.com)
 
