@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dhyantd&label=Profile%20views&color=0e75b6&style=flat" alt="dhyantd" /> </p>
 <img src="assets/images/1.png" alt="" border-radius="2px">
 <h1 align="center">Hello 👋, I'm Dhyan T D</h1>
 <h3 align="center">A Passionate Programmer,a Problem Solver and a open-source advocate👨‍💻 </h3>
@@ -35,4 +36,4 @@
 <a href="https://www.codechef.com/users/dhyan_td" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhyan_td" height="30" width="40" /></a>
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dhyantd&label=Profile%20views&color=0e75b6&style=flat" alt="dhyantd" /> </p>
+
