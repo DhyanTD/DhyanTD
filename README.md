@@ -30,16 +30,15 @@
  <div align="left">
     <a href="#"><img alt="Dhyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DhyanTD&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <a href="#"><img alt="Dhayn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhyanTD&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=DhyanTD&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
  <div align="left">
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DhyanTD&theme=react" alt="DhyanTD"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DhyanTD&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="DhyanTD"/></p>
   </div>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
     
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyantd&column=8&theme=nord" alt="dhyantd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyantd&column=8&theme=nord&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="dhyantd" /></a> </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
