@@ -33,10 +33,11 @@
  <div align="left">
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DhyanTD&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="DhyanTD"/></p>
   </div><br/>
- <div>
+
+    <br/>
     
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-  </div>
+  
     
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyantd&column=8&theme=nord&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="dhyantd" /></a> </p>
