@@ -35,7 +35,7 @@
   </div><br/> -->
     
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyantd&column=8&theme=nord&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="dhyantd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyantd" alt="dhyantd" /></a> </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
