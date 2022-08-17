@@ -35,7 +35,7 @@
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyantd&column=8&theme=onedark" alt="dhyantd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyantd&column=8&theme=react" alt="dhyantd" /></a> </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
