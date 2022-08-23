@@ -3,16 +3,18 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dhyantd&label=Profile%20views&color=0e75b6&style=flat" alt="dhyantd" /> </p>
 
 <h1 align="center">Hello 👋, I'm Dhyan T D</h1>
-<h3 align="center">A Passionate Programmer,a Problem Solver and a open-source advocate👨‍💻 </h3>
+<h3 align="center">I'm an enthusiastic Programmer,a Developer and an open-source advocate👨‍💻 </h3>
 <hr>
 <h2> About Me </h2>
-- 🔭 I’m currently working on a website for KVG COLLEGE OF ENGINEERING [kvgengg.com](http://www.kvgengg.com)
+- 🏗️ In a quest of building a life full of **CODE**
 
-- 👨‍💻 All of my projects are available at [https://dhyantd.github.io](https://dhyantd.github.io)
+- 🤓 Been a **Intern** at ANASOFT,sullia and contributed on 5 real time projects
+
+- 👨‍💻 All of my projects are available at **[https://dhyantd.github.io](https://dhyantd.github.io)
 
 - 💬 Ask me about **Python,Flask,Web/App development, C++**
 
-- 🌱 I’m currently learning **Laravel**
+- ✔️ **Change** is the only **Constant**
 
 - 📫 reach me at: **dhyantd@gmail.com**
 
