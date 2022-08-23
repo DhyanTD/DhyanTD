@@ -9,7 +9,7 @@
 
 - 🏗️ In the quest of building a life full of **Code**
 
-- 🤓 Been a **Intern** at ANASOFT,sullia and contributed on 5 real time projects
+- 🤓 Presently, a **Web/App development Intern** at ANASOFT,sullia and contributed on 5 real time projects
 
 - 👨‍💻 All of my projects are available at [https://dhyantd.github.io](https://dhyantd.github.io)
 
