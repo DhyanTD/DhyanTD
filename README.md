@@ -6,9 +6,9 @@
 <h3 align="center">I'm an enthusiastic Programmer, an aspiring Creator and an Open-Source advocate👨‍💻 </h3>
 <hr>
 <h2> About Me </h2>
+
 - ✔️ **Change** is the only **Constant**
-- ✔️ **Change** is the only **Constant**
-- hjhb
+
 - 🏗️ In the quest of building a life full of **Code**
 
 - 🤓 Presently, a **Web/App development Intern** at ANASOFT,sullia and contributed on 5 real time projects
@@ -17,12 +17,7 @@
 
 - 💬 Ask me about **Python,Flask,Web/App development, C++**
 
-- 📫 reach me at: **dhyantd@gmail.com** <p align="left">
-<a href="https://twitter.com/dhyan_td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhyan_td" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhyan t d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyan t d" height="30" width="40" /></a>
-<a href="https://instagram.com/the.dhyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.dhyan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dhyan_td" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhyan_td" height="30" width="40" /></a>
-</p>
+- 📫 reach me at: **dhyantd@gmail.com** <p align="left"><a href="https://twitter.com/dhyan_td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhyan_td" height="30" width="40" /></a><a href="https://linkedin.com/in/dhyan t d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyan t d" height="30" width="40" /></a><a href="https://instagram.com/the.dhyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.dhyan" height="30" width="40" /></a></p>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 
