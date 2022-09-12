@@ -19,7 +19,6 @@
 
 - 📫 reach me at: **dhyantd@gmail.com** <p align="left"><a href="https://twitter.com/dhyan_td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhyan_td" height="30" width="40" /></a><a href="https://linkedin.com/in/dhyan t d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyan t d" height="30" width="40" /></a><a href="https://instagram.com/the.dhyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.dhyan" height="30" width="40" /></a></p>
 
-<!-- <h3 align="left">Connect with me:</h3> -->
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -30,7 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhyantd&show_icons=true&locale=en" alt="dhyantd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhyantd&" alt="dhyantd" /></p>
-
+<!-- comment -->
 <!--  <div align="left">
     <a href="#"><img alt="Dhyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DhyanTD&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
    <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhyantd&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
