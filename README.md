@@ -7,8 +7,8 @@
 <hr>
 <h2> About Me </h2>
 <!-- about me goes  here -->
-- ✔️ **Change** is the only **Constant**
 
+- ✔️ **Change** is the only **Constant**
 - 🏗️ In the quest of building a life full of **Code**
 
 - 🤓 Presently, a **Web/App development Intern** at ANASOFT,sullia and contributed on 5 real time projects
