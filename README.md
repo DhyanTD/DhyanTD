@@ -36,7 +36,7 @@
  <div align="left">
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DhyanTD&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="DhyanTD"/></p>
   </div><br/> -->
-    <!-- Trophies goes -->
+    <!-- Trophies goes here-->
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyantd" alt="dhyantd" /></a> </p>
 <hr>
