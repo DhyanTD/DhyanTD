@@ -11,9 +11,9 @@
 - ✔️ **Change** is the only **Constant**
 - 🏗️ In the quest of building a life full of **Code**
 
-- 🤓 Presently, a **Web/App development Intern** at ANASOFT,sullia and contributed on 5 real time projects
+<!-- - 🤓 Presently, a **Web/App development** at ANASOFT,sullia and contributed on 5 real time projects -->
 
-- 👨‍💻 All of my projects are available at [dhyantd.github.io](https://dhyantd.github.io)
+ - 👨‍💻 All of my projects are available at [dhyantd.github.io](https://dhyantd.github.io)
 
 - 💬 Ask me about **Python,Flask,Web/App development, C++**
 
