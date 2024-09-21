@@ -15,7 +15,7 @@
 
  - 👨‍💻 All of my projects are available at [dhyantd.github.io](https://dhyantd.github.io)
 
-- 💬 Ask me about **Python,Flask,Web/App development, C++**
+- 💬 Ask me about **NodeJs,ReactJs,NextJs,ReactNative,Python**
 
 - 📫 reach me at: **dhyantd@gmail.com** <p align="left"><a href="https://twitter.com/dhyan_td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhyan_td" height="30" width="40" /></a><a href="https://linkedin.com/in/dhyan t d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyan t d" height="30" width="40" /></a><a href="https://instagram.com/the.dhyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.dhyan" height="30" width="40" /></a></p>
 
