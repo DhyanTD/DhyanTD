@@ -9,7 +9,6 @@
 
 <!-- about me  --> 
 
-
 - ✔️ **Change** is the only **Constant**
 - 🏗️ In the quest of building a life full of **Code**
 
