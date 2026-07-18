@@ -5,7 +5,7 @@
 <h1 align="center">Hello 👋, I'm Dhyan T D</h1>
 <h3 align="center">I'm an enthusiastic Programmer, an aspiring Creator and an Open-Source advocate👨‍💻 </h3>
 <hr>
-<h2> About Me </h2>
+<h2> About Me </h2> 
 
 <!-- about me  --> 
 
